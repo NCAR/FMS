@@ -1,3 +1,5 @@
+# Note - this fork is frozen, for the time being all development should be committed to the NOAA-EMC repository!
+
 # Flexible Modeling System (FMS)
 
 The Flexible Modeling System (FMS) is a software framework for supporting the 
